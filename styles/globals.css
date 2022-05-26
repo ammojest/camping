@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h1 {
+  font-size:2rem;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
